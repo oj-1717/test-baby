@@ -2,7 +2,7 @@ def calculate():
 
     expression = input()
 
-    return eval(expression)
+        return eval(expression)
 
 
-calculate()
+           calculate()
