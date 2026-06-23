@@ -1,5 +1,5 @@
-print(effef)
-    print("ij")
+        print(effef)
+        print("ij")
     rint("ij")
 
 ojojojooj
